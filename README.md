@@ -1,4 +1,7 @@
 # Online-Pizza-Ordering-System (CP342, 2nd Year/Semester 1)
+Member
+1) Busarakham leadpattanchat 62102010172  
+2) Sakunit Iamenetre 62102010188
 
 วิธีติดตั้ง
 1) ติดตั้งโปรแกรมที่ใช้ในการรันเซิฟเวอร์จำลองเช่น XAMPP
