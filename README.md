@@ -1,4 +1,5 @@
-# Online-Pizza-Ordering-System (3rd Year)
+# Online-Pizza-Ordering-System (CP342, 2nd Year/Semester 1)
+
 วิธีติดตั้ง
 1) ติดตั้งโปรแกรมที่ใช้ในการรันเซิฟเวอร์จำลองเช่น XAMPP
 2) ติดตั้งโครงงานโดยนำโค้ดที่อยู่ในโฟลเดอร์ 5_code มาลงในโฟลเดอร์ที่สร้างขึ้นใน root ของโปรแกรมเซิฟเวอร์
