@@ -1,4 +1,4 @@
-# Online-Pizza-Ordering-System (CP342, 2nd Year/Semester 1)
+# Online-Pizza-Ordering-System (CP342, 2nd Year/Semester 2)
 Member
 1) Busarakham leadpattanchat 62102010172  
 2) Sakunit Iamenetre 62102010188
